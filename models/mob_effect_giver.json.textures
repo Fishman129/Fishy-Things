@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mobeffectgiversides",
+        "1": "anvil",
+        "2": "dark_oak_planks"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "pixil-frame-0 (2)",
+		"1": "Documents:block/anvil",
+		"2": "Documents:block/dark_oak_planks",
+		"particle": "pixil-frame-0 (2)"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 16, 2],
+			"to": [13, 17, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 10, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 13, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 10, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 13, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 10, 13], "texture": "#1"},
+				"down": {"uv": [0, 0, 10, 13], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 17, 4],
+			"to": [12, 18, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 9, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 8, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 9, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 8, 9], "texture": "#1"},
+				"down": {"uv": [0, 0, 8, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 18, 6],
+			"to": [10, 19, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 4, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 5, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 4, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 5, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 4, 5], "texture": "#1"},
+				"down": {"uv": [0, 0, 4, 5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [9, 24, 7],
+			"to": [16, 26, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 7], "rotation": 270, "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 7], "rotation": 90, "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [0, 0, 3, 7], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [0, 0, 3, 7], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [0, 24, 7],
+			"to": [7, 26, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 7], "rotation": 270, "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 7], "rotation": 90, "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [0, 0, 3, 7], "rotation": 90, "texture": "#2"},
+				"down": {"uv": [0, 0, 3, 7], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [6, 24, 0],
+			"to": [9, 26, 7],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 7], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 7], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [0, 0, 3, 7], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [0, 0, 3, 7], "texture": "#2"}
+			}
+		},
+		{
+			"from": [6, 24, 10],
+			"to": [9, 26, 17],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"east": {"uv": [0, 0, 2, 7], "rotation": 270, "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 3], "rotation": 90, "texture": "#2"},
+				"west": {"uv": [0, 0, 2, 7], "rotation": 90, "texture": "#2"},
+				"up": {"uv": [0, 0, 3, 7], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [0, 0, 3, 7], "texture": "#2"}
+			}
+		},
+		{
+			"from": [7, 19, 7],
+			"to": [9, 26, 10],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 7], "texture": "#2"},
+				"east": {"uv": [0, 0, 3, 7], "texture": "#2"},
+				"south": {"uv": [0, 0, 2, 7], "texture": "#2"},
+				"west": {"uv": [0, 0, 3, 7], "texture": "#2"},
+				"up": {"uv": [0, 0, 2, 3], "texture": "#2"},
+				"down": {"uv": [0, 0, 2, 3], "texture": "#2"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "Box",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		},
+		{
+			"name": "Antenna",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "Tube",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [1, 2, 3]
+				},
+				{
+					"name": "Fans",
+					"origin": [8, 8, 8],
+					"color": 0,
+					"children": [4, 5, 6, 7, 8]
+				}
+			]
+		}
+	]
+}
