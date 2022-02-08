@@ -49,6 +49,3 @@ This mod has JEI Tooltips and recipes, please use it at all times
 
 <a href='https://postimg.cc/ZvHzGRgw' target='_blank'><img src='https://i.postimg.cc/ZvHzGRgw/JEI-Support.png' border='0' alt='JEI-Support'/></a>
 
-<a href='https://postimg.cc/75fbN8GF' target='_blank'><img src='https://i.postimg.cc/75fbN8GF/Book.png' border='0' alt='Book'/></a>
-
-Patchouli Book might take a while to get, so probably it will come together with 1.17+ Support
